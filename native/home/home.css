@@ -1,0 +1,38 @@
+.navbar-nav li.nav-item a.nav-link {
+    color: #0F4C75;
+    font-size: 100px;
+    font-family: 'Arial', sans-serif;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+video-container {
+    float: left;
+    /* Float the video container to the left */
+    width: 70%;
+    /* Adjust the width as needed */
+    margin-right: 10px;
+    /* Add some spacing between the video and description */
+}
+
+.classes:hover {
+    background-color: #0F4C75;
+    color: #fff
+}
+
+/* CSS to style the instruction items */
+.instruction-item {
+    margin-right: 10px; /* Add margin to separate items */
+    display: inline-block; /* Display items in a horizontal line */
+}
+
+
+.grid {
+    margin: 100px;
+}
